@@ -1,11 +1,8 @@
-<img width="947" height="633" alt="image" src="https://github.com/user-attachments/assets/e32f3ddc-bf47-4ae6-97aa-528cb3a6cf0c" /># Taily(Tail + Daily)
+# Taily(Tail + Daily)
 "반려동물의 일상을 데이터로 기록하고 공유하다"
 펫 SNS, 산책 정보, 반려동물 관련 시설을 통합한 플랫폼
 
 # 프로젝트 시연
-<video src="코코무%20최종시연영상%20720p.mp4" controls="controls" style="max-width: 100%;">
-  브라우저가 비디오 재생을 지원하지 않습니다.
-</video>
 
 # 핵심 기술
 
