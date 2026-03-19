@@ -30,9 +30,11 @@
 | etc | Swagger |
 
 ## 프로젝트 관리 도구
-Project Management Tool : Jira<br>
-Document : Notion<br>
-Version Control Software : GitHub, Sourcetree
+| Project Management Tool | Jira |
+| --- | --- |
+| Document | Notion |
+| Version Control Software | GitHub, Sourcetree |
+
 ## 기타
 Backend Server : AWS EC2<br>
 Frontend Server : AWS Amplify<br>
