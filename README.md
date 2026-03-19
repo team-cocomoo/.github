@@ -6,11 +6,11 @@
 
 # 핵심 기술
 ## Backend
-Language : Java 21
-Framework : Spring Boot, Spring Security
-Library : JPA, JUnit, Lombok
-Build : tool, Gradle
-IDE : IntelliJ
+Language : Java 21<br>
+Framework : Spring Boot, Spring Security<br>
+Library : JPA, JUnit, Lombok<br>
+Build : tool, Gradle<br>
+IDE : IntelliJ<br>
 Database : MySQL
 API : Kakao Map API
 etc : Postman
