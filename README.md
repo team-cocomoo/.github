@@ -5,7 +5,33 @@
 # 프로젝트 시연
 
 # 핵심 기술
-
+## Backend
+Language : Java 21
+Framework : Spring Boot, Spring Security
+Library : JPA, JUnit, Lombok
+Build : tool	Gradle
+IDE : IntelliJ
+Database : MySQL
+API : Kakao Map API
+etc : Postman
+## Frontend
+Language : HTML, CSS, JavaScript
+Framework : BootStrap5
+Library : React, Axios
+Build tool : Vite
+IDE : Visual Studio Code
+UI Design : Figma
+etc : Swagger
+## 프로젝트 관리 도구
+Project Management Tool : Jira
+Document : Notion
+Version Control Software : GitHub, Sourcetree
+## 기타
+Backend Server : AWS EC2
+Frontend Server : AWS Amplify
+DB Server : AWS RDS
+CI/CD : GitHub Actions
+etc : AWS Amplify, AWS IAM(권한 관리)
 
 # 적용 기술
 
