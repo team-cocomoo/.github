@@ -19,22 +19,16 @@
 | API | Kakao Map API |
 | etc | Postman |
 
-Language : Java 21<br>
-Framework : Spring Boot, Spring Security<br>
-Library : JPA, JUnit, Lombok<br>
-Build : Tool, Gradle<br>
-IDE : IntelliJ<br>
-Database : MySQL<br>
-API : Kakao Map API<br>
-etc : Postman
 ## Frontend
-Language : HTML, CSS, JavaScript<br>
-Framework : BootStrap5<br>
-Library : React, Axios<br>
-Build tool : Vite<br>
-IDE : Visual Studio Code<br>
-UI Design : Figma<br>
-etc : Swagger
+| Language | HTML, CSS, JavaScript |
+| --- | --- |
+| Framework | BootStrap5 |
+| Library | React, Axios |
+| Build tool | Vite |
+| IDE | Visual Studio Code |
+| UI Design | Figma |
+| etc | Swagger |
+
 ## 프로젝트 관리 도구
 Project Management Tool : Jira<br>
 Document : Notion<br>
