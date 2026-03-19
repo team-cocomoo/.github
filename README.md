@@ -9,10 +9,20 @@
 
 # 적용 기술
 ## Backend
+| Language | Java 21 |
+| --- | --- |
+| Framework | Spring Boot, Spring Security |
+| Library | JPA, JUnit, Lombok |
+| Build tool | Gradle |
+| IDE | IntelliJ |
+| Database | MySQL |
+| API | Kakao Map API |
+| etc | Postman |
+
 Language : Java 21<br>
 Framework : Spring Boot, Spring Security<br>
 Library : JPA, JUnit, Lombok<br>
-Build : tool, Gradle<br>
+Build : Tool, Gradle<br>
 IDE : IntelliJ<br>
 Database : MySQL<br>
 API : Kakao Map API<br>
@@ -92,3 +102,4 @@ etc : AWS Amplify, AWS IAM(권한 관리)
 
 
 # 프로젝트 회고
+
