@@ -9,7 +9,7 @@
 Language : Java 21
 Framework : Spring Boot, Spring Security
 Library : JPA, JUnit, Lombok
-Build : tool	Gradle
+Build : tool, Gradle
 IDE : IntelliJ
 Database : MySQL
 API : Kakao Map API
