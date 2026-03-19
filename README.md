@@ -11,8 +11,8 @@ Framework : Spring Boot, Spring Security<br>
 Library : JPA, JUnit, Lombok<br>
 Build : tool, Gradle<br>
 IDE : IntelliJ<br>
-Database : MySQL
-API : Kakao Map API
+Database : MySQL<br>
+API : Kakao Map API<br>
 etc : Postman
 ## Frontend
 Language : HTML, CSS, JavaScript
