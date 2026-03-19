@@ -36,11 +36,12 @@
 | Version Control Software | GitHub, Sourcetree |
 
 ## 기타
-Backend Server : AWS EC2<br>
-Frontend Server : AWS Amplify<br>
-DB Server : AWS RDS<br>
-CI/CD : GitHub Actions<br>
-etc : AWS Amplify, AWS IAM(권한 관리)
+| Backend Server | AWS EC2 |
+| --- | --- |
+| Frontend Server | AWS Amplify |
+| DB Server | AWS RDS |
+| CI/CD | GitHub Actions |
+| etc | AWS Amplify, AWS IAM(권한 관리) |
 
 
 # 이슈 관리 규칙
