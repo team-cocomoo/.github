@@ -90,6 +90,7 @@ etc : AWS Amplify, AWS IAM(권한 관리)
 
 
 # 팀 소개 및 역할
+|---|---|
 | 상욱 | PM, Main Developer |
 | 현승 | PL, Main Developer |
 | 범준 | SC, Main Developer |
