@@ -5,6 +5,8 @@
 # 프로젝트 시연
 
 # 핵심 기술
+
+# 적용 기술
 ## Backend
 Language : Java 21<br>
 Framework : Spring Boot, Spring Security<br>
@@ -32,8 +34,6 @@ Frontend Server : AWS Amplify<br>
 DB Server : AWS RDS<br>
 CI/CD : GitHub Actions<br>
 etc : AWS Amplify, AWS IAM(권한 관리)
-
-# 적용 기술
 
 
 # 팀 협업 규칙
