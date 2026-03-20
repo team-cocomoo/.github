@@ -91,6 +91,15 @@
 
 ## 산책
 ### 산책 일지
+<img width="1920" height="1116" alt="image" src="https://github.com/user-attachments/assets/c45d084a-ef15-4f88-bb42-e75b3062316c" />
+
+<img width="1920" height="1605" alt="image" src="https://github.com/user-attachments/assets/e7d66f2c-2b91-4cc4-84e5-6f2a9e0f48a5" />
+
+<img width="1920" height="1605" alt="image" src="https://github.com/user-attachments/assets/bfb41e08-f1eb-44c2-92c3-59651d0f42b3" />
+
+<img width="1920" height="1605" alt="image" src="https://github.com/user-attachments/assets/6201ce7e-0bd9-43c5-9767-45efbd32b4ef" />
+
+
 
 
 ### 산책 경로 공유
