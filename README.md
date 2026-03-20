@@ -97,8 +97,9 @@
 
 <img width="1920" height="1605" alt="테일리-03-20-2026_02_49_PM" src="https://github.com/user-attachments/assets/997eccdd-be14-428e-a51c-f4810c163c49" />
 오늘의 날씨, 산책 시간 끝 시간, 테일리의 기분을 기록한다.
+<br>
 오늘의 일기, 사진 첨부하면 된다.
-<br><br>
+<br>
 
 <img width="1920" height="1116" alt="테일리-03-20-2026_02_50_PM" src="https://github.com/user-attachments/assets/e5b6eb54-1952-4305-bc8d-7a42b6d94d11" />
 산책일지 달력
