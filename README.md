@@ -85,7 +85,9 @@
 
 # 주요 기능
 ## 펫 SNS & 커뮤니티
-
+<img width="1901" height="1236" alt="image" src="https://github.com/user-attachments/assets/23183d65-3f3b-4cb5-a690-cc4bce0dc451" />
+피드를 통해 반려동물과 함께하는 일상을 공유한다.
+대화방을 통해 사람들과 소통한다.
 
 ## 산책
 ### 산책 일지
